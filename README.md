@@ -3,7 +3,7 @@ Trabajo practico numero 12 de string - javascript 12-09-20
 
 Consignas:
 
-1- Hacer una funcion que dado un string o cadena de caracteres, genere una nueva cadena con las mismas palabras pero no pueden haber espacios en blanco antes de la primera palabra y despies de la ultima. Y debe haber un solo espacio en blanco entre palabras.
+1- Hacer una funcion que dado un string o cadena de caracteres, genere una nueva cadena con las mismas palabras pero no pueden haber espacios en blanco antes de la primera palabra y despues de la ultima. Y debe haber un solo espacio en blanco entre palabras.
 
 2- Hacer una funcion que dado un string y un caracter, devuelva una cadena de caracteres con todas las palabras que comienzan y terminan con ese caracter.
 
