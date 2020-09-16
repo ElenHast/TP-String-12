@@ -1,0 +1,1 @@
+/* 1- Hacer una funcion que dado un string o cadena de caracteres, genere una nueva cadena con las mismas palabras pero no pueden haber espacios en blanco antes de la primera palabra y despues de la ultima. Y debe haber un solo espacio en blanco entre palabras. */
